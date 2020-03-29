@@ -3,3 +3,4 @@ Basic Springboot boilerplate, minimal. Contains: cmd line run, no web, JPA examp
 
 Spring 2.2.6
 
+## Any useful note shall be put in comments, beginning with keyword : "knote", so that its easy to search later
